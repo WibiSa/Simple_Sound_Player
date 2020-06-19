@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Sound Player</string>
+    <string name="using_soundpool">Putar Musik dengan \"Soundpool\"</string>
+    <string name="play">Putar</string>
+</resources>
